@@ -1,0 +1,51 @@
+Name: Alarms
+Type: AlarmsCategoryFolder
+Children:
+- Name: 速度报警
+  Type: ExclusiveLevelAlarmController
+  Children:
+  - Name: InputValue
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: 0.0
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/screen_speed"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+  - Name: LastEvent
+    Type: BaseDataVariableType
+    DataType: BaseDataType
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+  - Name: HighLimit
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: 4.0
+  - Name: HighHighLimit
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: 5.0
+  - Name: LowLimit
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: -4.0
+  - Name: LowLowLimit
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: -5.0
+  - Name: Message
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"zh-CN","Text":"设定速度大于3，已将速度调整为3"}
+  - Class: Reference
+    Target: ns=14;i=83
+  - Class: Reference
+    Target: ns=14;i=82
+  - Class: Reference
+    Target: ns=14;i=81

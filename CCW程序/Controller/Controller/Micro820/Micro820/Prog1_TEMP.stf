@@ -1,0 +1,4 @@
+PROGRAM Prog1_TEMP
+RWenDu:= ANY_TO_REAL(_IO_P1_AI_00);
+M820Temp:= RWenDu /65535.0*100.0*0.5;注意温度传感器量程
+END_PROGRAM

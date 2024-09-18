@@ -1,0 +1,12 @@
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.csproj.AssemblyReference.cache
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.AssemblyInfo.cs
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.dll
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\refint\NewHMIProject.dll
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\NewHMIProject.pdb
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\bin\NewHMIProject.deps.json
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\bin\NewHMIProject.dll
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\bin\NewHMIProject.pdb
+C:\Users\Steven\Desktop\NewHMIProject\ProjectFiles\NetSolution\obj\Debug\ref\NewHMIProject.dll
